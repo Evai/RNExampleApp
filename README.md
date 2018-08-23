@@ -2,35 +2,31 @@
 
 ##一个基于react native开发的完整项目示例，仅供参考和学习。
 
-###安装
+### 安装
 
 ```
 yarn install
-
 ```
 
-###或者
+### 或者
 
 ```
 npm install
-
 ```
 
-###链接库（由于项目中引用很多第三方库，难免会有坑，请自行查询解决）
+### 链接库（由于项目中引用很多第三方库，难免会有坑，请自行查询解决）
 
 ```
 react-native link
-
 ```
 
-###运行
+### 运行
 
 ```
 react-native run-ios
-
 ```
 
-###应用截图：
+### 应用截图
 
 ![首页](https://www.yuhechu.com:8090/uploads/image/home.png)
 
