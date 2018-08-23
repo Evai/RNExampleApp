@@ -1,6 +1,6 @@
 # RNExampleApp
 
-##一个基于react native开发的完整项目示例，仅供参考和学习。
+## 一个基于react native开发的完整项目示例，仅供参考和学习。
 
 ### 安装
 
