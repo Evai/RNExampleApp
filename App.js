@@ -51,8 +51,8 @@ class App extends React.Component {
 		CodePush.sync({},() => {}, () => {});
 		if (GeoLocation) {
 			await GeoLocation.init({
-				ios: "4b90e869e5c3ee42bc2960030f96c5dc",
-				android: "11d9a1d5af6c76a7db9865903e7ec3bc"
+				ios: "",
+				android: ""
 			});
 			GeoLocation.setOptions({
 				interval: 8000,
