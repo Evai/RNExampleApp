@@ -8,9 +8,6 @@
 
 ### 项目地址：[查看](https://github.com/Evai/RNExampleApp)
 
-
-### 应用宝地址：[链接](http://a.app.qq.com/o/simple.jsp?pkgname=com.whereapp)
-
 ### 安装
 
 ```
