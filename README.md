@@ -3,7 +3,6 @@
 ## 一个基于react native开发的完整项目示例，仅供参考和交流，版本0.53。
 
 一款基于出题，做题的社交软件。主要功能有题目，聊天和动态。
-目前已在iOS和Android平台上线。
 
 
 ### 项目地址：[查看](https://github.com/Evai/RNExampleApp)
